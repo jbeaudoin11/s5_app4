@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+    ],
+    "settings": {
+        "terminal.integrated.env.windows": {
+            "PATH": "C:\\Users\\jbeau\\.platformio\\penv\\Scripts;C:\\Users\\jbeau\\.platformio\\penv;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\Skype\\Phone\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\MATLAB\\R2016a\\runtime\\win64;C:\\Program Files\\MATLAB\\R2016a\\bin;C:\\HashiCorp\\Vagrant\\bin;C:\\Program Files\\PuTTY\\;C:\\Ruby23\\bin;C:\\Users\\jbeau\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\jbeau\\AppData\\Roaming\\npm;C:\\Program Files\\Microsoft VS Code Insiders\\bin;C:\\fciv;;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\Skype\\Phone\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\MATLAB\\R2016a\\runtime\\win64;C:\\Program Files\\MATLAB\\R2016a\\bin;C:\\HashiCorp\\Vagrant\\bin;C:\\Program Files\\PuTTY\\;C:\\Ruby23\\bin;C:\\Users\\jbeau\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\jbeau\\AppData\\Roaming\\npm;C:\\Program Files\\Microsoft VS Code Insiders\\bin;C:\\fciv;",
+            "PLATFORMIO_CALLER": "vscode"
+        }
+    }
+}
